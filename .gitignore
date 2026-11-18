@@ -1,0 +1,10 @@
+# pixi environments
+.pixi/*
+!.pixi/config.toml
+
+# others
+__pycache__/
+.env
+memory.json
+logs/
+chat_histories/
